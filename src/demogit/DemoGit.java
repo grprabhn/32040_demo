@@ -16,6 +16,9 @@ public class DemoGit {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("noor");
+        int a;
+        int b;
+        int c= a+b;
     }
     
 }
